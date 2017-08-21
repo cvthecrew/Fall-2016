@@ -1,0 +1,67 @@
+Evaluate the Dolev-Yao Adversary Model - what are the pros/cons of the model, any shortcomings? If there are shortcomings, what are they and how can they be addressed?
+
+Dolev-Yao Adversary Model or the Dolev-Yao model is as the book says, “the standard attack model against messages exchanged over a network.” (Vacca, 2014) This model gives us a better understanding on an attacker by giving us several actions we assume an attacker might take. Understanding your enemy the better you can chance of defending yourself from attack. These assumptions are Eavesdrop, Forge, Replay, Delay and rush, Reorder, and Delete. In my book all the assumptions are pros in my book. To be overly cautious with regard to security is a good thing. We are going back to what Anish was talking about in our first discussion, “Information security professionals have a reputation for being the glass half empty types of people...We are conditioned to look for everything that can go wrong”.(Anish, 2013) I think that we need to have a glass half full perspective when looking at security and The Dolev-Yao Model gives us that apply as the industry standard for a threat model. Now the downside with Dolev Yao Model is that we are assuming that everything is insecure, we have to find a good balance between completely secure and usability. Anish describes this balance as a feeling of confidently secure.  
+
+How do you protect against these adversarial attacks?
+
+The easiest way to secure communication is owl post, or smoke signals….haha just kidding. The book talks a lot about Cryptography, which is the art of securing communication. A form of cryptography is encryption; which can be your most reliable defense. Encryption can defend against defend against all of these assumptions listed above, but mostly with eavesdroppers. Danny Dolev and Andrew Yao put it this way when talking about Public Key Protocols(Which is a form of encryption), “Public key encryption provides secure network communication, usually effective against eavesdroppers.”(PKE, 1983) The company I work for has just made a move from http to https which is the process of encrypting web traffic, another great example of secure communications. 
+
+In our CSIA 6200 class we did our own Vulnerability Assessment Model which involved Identify, Analyze, Mitigate, and manage. I think when we are protecting against adversarial attacks we need to do a Vulnerability or risk assessment.
+
+Identify
+Identify, group, and rank various information functions
+Form policies based on these functions and rankings
+Perform risk assessment
+Prioritize mitigation/prevention activities based on most essential functions first
+Analyze
+Analyze activities/traffic and form baselines for ‘normal’
+Perform penetration testing
+Monitor for vulnerabilities, compromises, departures from ‘normal’
+Mitigate
+Take measures to fix problems found
+Alter policies if needed
+Manage
+Document all fixes/changes to systems
+Add/alter policies and groupings/rankings as business grows and changes
+Asses implemented fixes and monitor to ensure their success
+Repeat process
+How can an organization prevent security breaches to their Intranet?
+
+The best way to prevent security breaches to any intranet is to understand your intranet, and identify the risks to that intranet. To properly understand this you will need to perform a Risk assessment. We have to assess the risk of encrypting laptops and mobile devices, using VPN and SSL’s, Malware/spyware, proper internal traffic monitoring, updated Patching, Email vulnerabilities, proper firewall placements and configurations, wireless network security, personal security, and don't underestimate proper password policies.  Which are all great ways to better protect ourselves from security breaches.
+
+How would an organization handle an intranet attack?
+
+At my work we do what is called an post-mortem, Professor Robertson called it an audit in his lecture. In the post-mortem, the incidence response team gives an incident report to the executives. The questions the incident response team has to answer in this audit are what happened in the incident, when the incident happened, how the incident happened, what damages were caused because of this incident, and what the incident response team did to prevent an incident like this from happening in the future? Kindof nerve racking to sit in front of your bosses and explain what happened, but it needs to be done. But that is after the incident has occurred. During the incident, it is the responsibility for the network team to have security monitors to know when and what is happening. Then the responsibility for the incident response team to act quickly to resolve the issue, and prevent or circumvent the attack.      
+
+References:
+
+http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf (Links to an external site.)Links to an external site.
+
+https://eprint.iacr.org/2009/079.pdf (Links to an external site.)Links to an external site. (Links to an external site.)Links to an external site.
+
+https://en.wikipedia.org/wiki/Dolev%E2%80%93Yao_model (Links to an external site.)Links to an external site. 
+
+Class Slides 7 and 8
+
+https://youtu.be/UPmVTPyE5DM (Links to an external site.)Links to an external site.
+
+
+from Internet/Intranet
+Oct 1, 2016 5:06pm
+Click to change profile picture for Alex Cannell
+I agree we should have nerves, but i think that is the sign of a good IT. i say it above to be confidently secure. the purpose of post mortems are to correct and understand, not to punish. even though it seems like a punishment sitting there explaining why something wasnt secured before. 
+
+from Internet/Intranet
+Oct 1, 2016 7:37pm
+Click to change profile picture for Alex Cannell
+hey mark, at work we are working on developing playbooks ourselves. have you come across some good examples of IR playbooks? 
+
+from Internet/Intranet
+Oct 1, 2016 10:23pm
+Click to change profile picture for Alex Cannell
+last week yahoo amitted that they lost over 500 million user accounts during a data breach. apparently yahoo is still vulnerable to attack. http://www.infosecurity-magazine.com/news/yahoo-found-wanting-on-crypto/
+
+from Internet/Intranet
+Oct 1, 2016 11:53pm
+Click to change profile picture for Alex Cannell
+I really like how you included User Training in your prevention of breaches section. I use to work for a hospital and it was a common event to find usernames and passwords on a the monitor, taped to the desk, or on the side of a computer tower for the whole world to see. Employee security training is a great way to prevent common security bad practices. 
