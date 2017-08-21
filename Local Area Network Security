@@ -1,0 +1,156 @@
+The chapter also provides a LAN security checklist (see p.286-287). What would you add/delete from these lists (2.1.1 and 2.2)? (cite your arguments with scholarly and textbook references)
+My company goes through a quarterly security audits every year. They are indeed a pain in the butt but I definitely can see the need. Risk outweigh the annoyance. Looking at the check list the book provides I can see several similarities between the books checklist and my employers. But the significant difference is a greater emphasis on employee information security training and education. I found that our LAN Security Checklists at my work are combined with a complete security checklist, not just for LAN security but for my work as a whole. Honestly I like that better, as it says under LAN Security Assessments understanding the scope and frequency of your whole system. I found a great example of a security checklist from the University of Illinois that is quite in-depth. I also found some great checklists from SANS the checklist I found interesting was one about Safety walkthrough checklist. The checklist from the book goes as follows:
+
+Roles and Responsibilities:
+Authorized Users/Groups
+Authorized parties responsible for installs and configurations.
+LAN Infrastructure Security:
+Physical Security
+Guidelines and Policies On information being sent
+Encryption and Cryptography Policies
+Client Device Security:
+Acceptable user device policy
+Standard hardware and software configurations
+Guidelines on how and when a device can be used
+Guidelines for stolen or lost devices (remote wipe, encryption, device Identification)
+LAN Security Assessments:
+Understanding the Scope and Frequency of your whole system
+Actions to be taken if rogue or misconfigured devices are identified
+Other Recommendations:
+Consider designating a progress tracker of security standards.
+Maintain an inventory of all devices.
+The things I would change on this list:
+
+Add:
+Malware, Spyware, Antivirus, Backup software, etc… Properly implemented and Managed
+One that I found interesting looking at my company's proper management of unauthorized and authorized web sites be constantly audited and monitored.  
+IDS, IPS, and Firewalls properly implemented and managed so we can detect and help prevent attacks.
+Guidelines for email. I.E. policy for handling phishing or spam email when it comes into employees mail.
+Employee confidentiality agreements if you handle any type of personal data
+Access Badge/physical key’s policy. (this might be covered under physical security while I think about it.) I.E. if your security badge is stolen or lost. Or if deactivating previous employees badges.
+Proper education and training of employees on new risks and policies.
+Remove:
+Honestly I like the list the book provides I would just add more, and probably do some combining of current bullet points.
+References:
+
+University of Illinois IT Security Checklist. (2015, August). Retrieved October 15, 2016, from http://citebm.business.illinois.edu/TWC Class/Project_reports_Spring2006/Business Risk Management/Manzoor/Audit Checkilist.pdf   
+
+Andrei, B. L. (n.d.). SCORE: Checklists & Step-by-Step Guides. Retrieved October 16, 2016, from https://www.sans.org/score/checklists (Links to an external site.)Links to an external site.  
+
+ 
+
+Provide a short outline of incident-handling procedures that should be included in the policy. (again cite your arguments with scholarly and textbook references)
+Looking through a lot of material on incident response Handling procedures and many examples of different incident handling procedures they all have the similar steps. One: Preparation and Prevention, Two: Detection And Analysis, Three: Containment Eradication and Recovery, and Four: Post Mortem.
+
+Preparation and Prevention
+Create a Company security policy
+Go through your Infosecurity Checklist and make sure everything passes. (Items listed above)
+Contact information
+Set up an Incident reporting mechanism or a Operational Management System (OMS)
+Perform Risk assessments regularly
+User Awareness training
+Network Security
+Malware Prevention
+Host Security
+Device Management
+Evidence Gathering Policy
+Encryption and Cryptography
+Detection And Analysis
+Security Information and Event Management (SIEM)
+Igoss Data Processing and Service System(IDPSs)
+Antivirus, AntiSpam, and Malware Software
+Third Party Monitoring Services
+Operating System and Event Logs
+Netflow Analyzers
+Staying updated on current new vulnerabilities and exploits
+Categorize severity
+Network Forensics Software
+Network Intrusion Detection System (NIDS) / Network Intrusion Prevention System (NIPS) / Host Intrusion Detection System HIDS / Host Intrusion Prevention System (HIPS)
+Containment, Eradication, and, Recovery
+Backup affected systems for later analysis
+Gather appropriate evidence
+Make the appropriate changes
+Modifying Firewalls
+Changing system setings
+Changing Passwords
+Etc…
+Review the System
+Have this plan in place in advance!
+Extract and identify characteristics of adversary
+Identify other affected systems
+Identify what has been stolen
+Identify legal ramifications
+Contact Law Enforcement (LE), FBI typically interested in this sort of attack
+Public Reporting
+Post Mortem
+Description of what happened (With all the updated information)
+Date, Time, and Method of incident discovery.
+Root Cause
+Persons involved
+Systems and Data involved
+Actions taken since discovery
+Immediate
+Short Term
+Long Term
+Summary of internal discussions
+Incident manager’s investigative strategy, and process
+Legal issues
+Timeline of investigation/recovery/ resolution
+Potential Impact
+Future goals
+Short Term
+Long Term
+Immediate
+Witty quote about the incident :)
+“Therefore a victorious army first wins and then seeks battle; a defeated army first battles and then seeks victory.” -Sun Tzu
+
+References:
+
+Davidoff, S., & Ham, J. (2012). Network forensics: Tracking hackers through cyberspace. Upper Saddle River, NJ: Prentice Hall.
+
+Sun Tzu. (n.d.). AZQuotes.com. Retrieved January 30, 2016, from AZQuotes.com Web site: http://www.azquotes.com/quote/551429 (Links to an external site.)Links to an external site.
+
+Andrei, B. L. (n.d.). SCORE: Checklists & Step-by-Step Guides. Retrieved October 16, 2016, from https://www.sans.org/score/checklists/apt-incident-handling (Links to an external site.)Links to an external site.  
+
+NIST. (2012, August). COMPUTER SECURITY INCIDENT HANDLING GUIDE. Retrieved October 15, 2016, from http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf (Links to an external site.)Links to an external site.  
+
+from Local Area Network Security
+Oct 15, 2016 11:10pm
+Click to change profile picture for Alex Cannell
+Hey John,
+
+My friend just posted something about OODA's earlier this week, now I know what he is talking about thank you. HAHA 
+
+Image result for ooda loop meme
+
+from Local Area Network Security
+Oct 15, 2016 11:23pm
+Click to change profile picture for Alex Cannell
+Oh my goodness this is glorious!! This helps me out alot with my Research Paper thanks for posting. "We have to be trust worthy, or else there would be a number of evil things that we could potentially do." 
+
+from Local Area Network Security
+Oct 15, 2016 11:26pm
+Click to change profile picture for Alex Cannell
+This Ted Talk popped up into my queue earlier this week. Do you guys agree? do we need Hackers? Or would the world be a better place without them? I personally believe we need them. But that is just me. :) 
+
+https://www.youtube.com/watch?v=erCAp_Bd0AQ (Links to an external site.)Links to an external site.
+
+ 
+
+from Local Area Network Security
+Oct 15, 2016 11:39pm
+Click to change profile picture for Alex Cannell
+I dont know if I agree with you on the lazy managers signing off on stuff without checking it out first. If there is managers that do that there is clear documentation that says that they signed off on something that wasn't secure. which i believe is grounds for termination. Good thing all the checklists are done by the Infosec team at my work. 
+
+Everything I have come across involving Incident Response Handling Policies have revolved around the 6 primary phases. I love the last Phase name though, "lessons Learned". The whole point of the last phase is to understand what happened and to prevent another incident from happening again. The best way to learn is from mistakes, others and your own. Great post. 
+
+from Local Area Network Security
+Oct 15, 2016 11:46pm
+Click to change profile picture for Alex Cannell
+Sick diagram Alyssa. This is the first incident handling policy i have seen with the three phases, it is usually the 6 primary phases. They both state the same essential steps in handling an incident,  but I think i like your's better. good find. 
+
+from Local Area Network Security
+Oct 15, 2016 11:59pm
+Click to change profile picture for Alex Cannell
+Haha So an CEH provider was spreading ransomeware. Good Game! I guess it would make sense though. I feel like places that provide security and education for security professionals would be a bigger target for attack. This reminds me about the time I went to Skills USA, they programmed their own test taking website. While waiting for my password to take the test i was poking around the source code for the website and the password was in the source code. :) Security out of obscurity i guess. 
+
