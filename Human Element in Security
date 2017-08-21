@@ -1,0 +1,60 @@
+What are critical elements of an effective security awareness program? (Justify your answer through references to industry best practices)
+
+The whole goal of effective security awareness is to be able to modify our user/employees behavior to make our environment more secure. You can see the effectiveness of training through the behavior of our employees. I am extremely fascinated by the human element of hacking/vulnerabilities. The ability to get someone to do something they shouldn't or wouldn't do is exciting to learn about. To takes someone's human nature and turn it against someone is a form of magic in of itself. The book states, “In general we want to instill a healthy sense of paranoia in our users...” Now the book describes several elements needed to have security awareness:
+
+Protecting Data - is apart of compliance and is needed in every industry. There are a lot of laws associated with protecting data such as HITECH, HIPPA, PCI-DSS, and etc... Not adequately protecting data can result in damages, fines, and maybe even jail time. Protecting data can include encryption, adequate firewall implementation, VPN services, etc…. Along with protecting data, it would be a good thing to backup your data to either an external source or cloud environment, just incase something happens.
+Passwords - employees with weak passwords, who don't change their passwords, etc.. Are a huge risk, especially if they have higher privileges or rights. Common good practices are have a policy to require regular user passwords to be reset the book recommends 90 days, but I really like what SUU does where the amount of time is dependant on how complicated the password is. Also effective complex strong passwords opposed to weak easily guessed passwords like 0123456789, or Password!. You can check out how strong or weak your current passwords are at https://howsecureismypassword.net/ (Links to an external site.)Links to an external site. another good place to check passwords is http://www.passwordmeter.com/ (Links to an external site.)Links to an external site. I personally passed with flying colors. This is a great way to teach awareness of password weakness. You could also do an in house presentation on how fast/easy some weak passwords are to brute force.
+Social Engineering - Is a really scary tool used by hackers and can be quite effective in circumventing security. Why hack something when you could get someone to get you the information or access you need. Kevin Mitnick stated, “Social engineering is using manipulation, influence, and deception to get a person, a trusted insider within an organization, to comply with a request, and the request is usually to release information or to perform some sort of action item that benefits that attacker.” Some types of Social Engineering are Pretexting, Phishing, Piggybacking/Tailgating(Professor Robertson had a sign outside the hacking lab warning against about Piggybacking during my undergrad), Baiting, and ect… Awareness and training is the key to prevent these types of attacks. If employees know what to look for they will be less likely to become a victim. Demonstrating how easy it is to spoof a caller ID or Email address.
+Network usage - This is the teaching of the importance of network safety. In the case of Ancestry everyone that works here has a laptop, which means that there is a lot of traveling to public places, home, or traveling abroad with these laptops. It would be pertinent to explain the safety measures when connecting to a public wifi or hotspot, connecting via VPN, etc… You never know who is going to be on a public network sniffing for information. You could demonstrate a man in the middle attack.
+Malware - I love how the book states not to “indiscriminately” click on things. Be careful when serving the web, opening email attachments, on social media, porn, Peer to peer, etc… you could pick up a virus or malware. Malware is any software that you don't want on your device. Malware comes in many different shapes and forms. The book lists some items you could be an indicator of malware like email attachments from people you don't know, email attachments containing a questionable file type, web links using shortened URL’s, web links with slightly different names, downloading applications from non official sites, and pirated software. Maybe show the different effects of different malware. Anti virus should be installed on all devices with required regular scan’s.
+Personal equipment - Creating policies that protect against security vulnerabilities/Risk. Such as no personal devices on the corporate network only on the Guest. Communicating these policies, and making sure they are followed. Making sure these devices are updated and secure.
+Clean desk - a clean desk is important. We have at ancestry a bunch of Alien Invader stickers on all the whiteboards at our corporate office that read “Remember to Erase Me.” Clean desks help lurkers and passers by from seeing important information. A ready example comes to mind, I use to work for a hospital and I would always come accross an employee that would have all their passwords on a sticky note taped to their monitor, keyboard, computer tower, and even right there on the desk. I mean what is the point of a password if you are just going to leave it right out in the open.
+Policy and regulatory knowledge - are very important so employees know what the rules are, how to comply with those rules, and the why behind the rules. Now the best way to communicate these rules is to have annual training, and go through what is expected and best common practices. I feel if people know what they need to do, and the reason for doing it users will more likely comply. It is always great to get feedback on how effective your policies and security awareness program is.
+Reading up on some of the SANS Monthly newsLetters one really stood out to me lasts months, “Four Steps to Staying Secure”. In October’s it list’s four steps pretty much list what the book listed, but in simpler for. The four steps are You being suspicious and using common sense, Keeping your software and hardware up to date, using strong unique passwords, and I would add encryption to the list too. Something the book doesn't talk about is the importance of two factor authentication. To be honest I just started to use two factor authentication with my personal accounts such as my bank, Facebook, and even for my gaming. I though two factor would be a hassle but it just takes me an additional minute if that of my time. To me that is worth the peace of mind to be secure. 
+
+http://lightcyber.com/8-tips-to-prevent-social-engineering-attacks/ (Links to an external site.)Links to an external site.
+
+http://www.csoonline.com/article/2133408/network-security/network-security-the-7-elements-of-a-successful-security-awareness-program.html (Links to an external site.)Links to an external site.
+
+https://www.sans.org/reading-room/whitepapers/bestprac/implementing-effective-security-program-80 (Links to an external site.)Links to an external site.
+
+http://www.isaca.org/Knowledge-Center/Research/Documents/Critical-Elements-of-Information-Security-Program-Success_res_Eng_0105.pdf (Links to an external site.)Links to an external site.
+
+Do the elements of a security awareness program vary from industry to industry? (i.e Government, financial, healthcare, etc.) If so, what might be different? Explain and cite references for your answer.
+
+I believe that the general Security Awareness elements which the book listed are important for every industry and should be implemented in every industry. But I also believe that a specific industry will implement better security to certain elements more than others. For example I use to work for a hospital and we had different requirements for protecting patient information/personal information than we do working for ancestry. “The success of a security awareness program will vary for each organization based on considerations such as size, industry, and type of training.” (Infosecleague, 2015)
+
+https://infosecleague.blogspot.com/2015/03/setup-information-security-awareness.html (Links to an external site.)Links to an external site.
+
+from Human Element in Security
+Nov 19, 2016 8:09pm
+Click to change profile picture for Alex Cannell
+My thoughts on the Ted Talk:
+
+I think we need hackers spread out between both sides of the fence.  We need all three grey, black, and White hat's. because each perspective gives enlightenment/perspective for discoveries. We can’t get rid of the aspect of black hat hackers, they aren't going away. That is just the world we live in, but we can learn from their attempts and techniques. Just look at Honeypots, the whole purpose is to determine where they are coming from and how they are hacking. Sun Tzu said “Know your enemy and know yourself, you need not fear the result of a hundred battles.”From the perspective of someone who just got hacked, yes it sucks, and yes it is going to take work to fix. But this is a great learning experience for that security professional, and you know the system is going to be more secure than you left it. we can also learn from other companies/professionals mistakes. Now this is no wise condoning malicious hacking. But like she says in the ted talk hacking has bearing on the evolution of technology. Plus hackers keep the Security Market growing, which means more job security for us. What do you think?
+
+http://www.securityweek.com/importance-learning-hackers (Links to an external site.)Links to an external site.
+
+https://www.scmagazine.com/why-we-need-hackers/article/557357/ (Links to an external site.)Links to an external site.
+
+http://bigthink.com/endless-innovation/do-we-need-an-army-of-hackers-to-fight-a-cyber-war (Links to an external site.)Links to an external site.
+
+from Human Element in Security
+Nov 19, 2016 10:26pm
+Click to change profile picture for Alex Cannell
+Nice image of the security awareness training program. I agree, alot of the time security awareness training's are extremely boring and redundant. But they are needed for the people who are not fully educated on basic security practices or as the SAN's October 2016, "Be suspicious. By using common sense, you can stop most common attacks." I also loved what you said about Security awareness program's being tailored to the different organization. It is so true. Great post
+
+from Human Element in Security
+Nov 19, 2016 11:01pm
+Click to change profile picture for Alex Cannell
+I really enjoyed that youtube video, that really shows how vulnerable we truly are. That also shows how effective social engineering actually is. I know this is an older video, but it is kindof interesting. 
+https://www.youtube.com/watch?v=F7pYHN9iC9I (Links to an external site.)Links to an external site.
+
+ 
+
+from Human Element in Security
+Nov 19, 2016 11:16pm
+Click to change profile picture for Alex Cannell
+Eli I love that video so much! I cant stop laughing. But humor aside it is so true. I saw this post on facebook the other day. I thought it was so funny how easily we as human beings are easily fooled. I'm included in that too.
+
+Image result for if your social security number was the amount of money you had
